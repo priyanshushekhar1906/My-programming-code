@@ -1,0 +1,10 @@
+console.time('your code Took');
+console.log("Hello console");        
+console.log([12,13,2,2]);
+console.log({harry:"this",rollno:192});
+console.table({harry:"this",rollno:192});
+console.warn("This is warning");
+// console.clear();
+console.timeEnd("your code Took");
+console.assert(566<189,'Age >189 is not possible');
+console.error("This is an error");
